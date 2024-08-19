@@ -7,8 +7,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\Admin\\anaconda3\\pkgs\\bzip2-1.0.8-h2bbff1b_6",
-  "features": "",
+  "extracted_package_dir": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\bzip2-1.0.8-h2bbff1b_6",
   "files": [
     "Library/bin/bzip2.dll",
     "Library/bin/bzip2.exe",
@@ -29,12 +28,12 @@
   "license": "bzip2-1.0.8",
   "license_family": "BSD",
   "link": {
-    "source": "C:\\Users\\Admin\\anaconda3\\pkgs\\bzip2-1.0.8-h2bbff1b_6",
+    "source": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\bzip2-1.0.8-h2bbff1b_6",
     "type": 1
   },
   "md5": "33e784123d565c38e68945f07b461282",
   "name": "bzip2",
-  "package_tarball_full_path": "C:\\Users\\Admin\\anaconda3\\pkgs\\bzip2-1.0.8-h2bbff1b_6.conda",
+  "package_tarball_full_path": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\bzip2-1.0.8-h2bbff1b_6.conda",
   "paths_data": {
     "paths": [
       {
@@ -122,7 +121,6 @@
   "size": 91870,
   "subdir": "win-64",
   "timestamp": 1714511182837,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/bzip2-1.0.8-h2bbff1b_6.conda",
   "version": "1.0.8"
 }

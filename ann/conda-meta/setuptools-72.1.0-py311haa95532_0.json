@@ -6,8 +6,7 @@
   "depends": [
     "python >=3.11,<3.12.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\Admin\\anaconda3\\pkgs\\setuptools-72.1.0-py311haa95532_0",
-  "features": "",
+  "extracted_package_dir": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\setuptools-72.1.0-py311haa95532_0",
   "files": [
     "Lib/site-packages/_distutils_hack/__init__.py",
     "Lib/site-packages/_distutils_hack/__pycache__/__init__.cpython-311.pyc",
@@ -1023,12 +1022,12 @@
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "C:\\Users\\Admin\\anaconda3\\pkgs\\setuptools-72.1.0-py311haa95532_0",
+    "source": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\setuptools-72.1.0-py311haa95532_0",
     "type": 1
   },
   "md5": "f961ebe7e42416ab52d3a2d160324af9",
   "name": "setuptools",
-  "package_tarball_full_path": "C:\\Users\\Admin\\anaconda3\\pkgs\\setuptools-72.1.0-py311haa95532_0.conda",
+  "package_tarball_full_path": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\setuptools-72.1.0-py311haa95532_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -8081,7 +8080,6 @@
   "size": 3113345,
   "subdir": "win-64",
   "timestamp": 1722860376387,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/setuptools-72.1.0-py311haa95532_0.conda",
   "version": "72.1.0"
 }

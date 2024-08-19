@@ -7,8 +7,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\Admin\\anaconda3\\pkgs\\xz-5.4.6-h8cc25b3_1",
-  "features": "",
+  "extracted_package_dir": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\xz-5.4.6-h8cc25b3_1",
   "files": [
     "Library/bin/liblzma.dll",
     "Library/bin/lzcat.exe",
@@ -46,12 +45,12 @@
   "license": "LGPL-2.1-or-later and GPL-2.0-or-later and 0BSD",
   "license_family": "GPL2",
   "link": {
-    "source": "C:\\Users\\Admin\\anaconda3\\pkgs\\xz-5.4.6-h8cc25b3_1",
+    "source": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\xz-5.4.6-h8cc25b3_1",
     "type": 1
   },
   "md5": "cd89b06b0e59712386f00a41fb2dec32",
   "name": "xz",
-  "package_tarball_full_path": "C:\\Users\\Admin\\anaconda3\\pkgs\\xz-5.4.6-h8cc25b3_1.conda",
+  "package_tarball_full_path": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\xz-5.4.6-h8cc25b3_1.conda",
   "paths_data": {
     "paths": [
       {
@@ -258,7 +257,6 @@
   "size": 624080,
   "subdir": "win-64",
   "timestamp": 1714515119689,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/xz-5.4.6-h8cc25b3_1.conda",
   "version": "5.4.6"
 }

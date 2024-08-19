@@ -6,8 +6,7 @@
   "depends": [
     "vs2015_runtime >=14.40.33807"
   ],
-  "extracted_package_dir": "C:\\Users\\Admin\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0",
-  "features": "",
+  "extracted_package_dir": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0",
   "files": [
     ".nonadmin"
   ],
@@ -17,12 +16,12 @@
   "license": "BSD-3-Clause",
   "license_family": "BSD",
   "link": {
-    "source": "C:\\Users\\Admin\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0",
+    "source": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0",
     "type": 1
   },
   "md5": "80f26b3a9e975d3e119f6fc41a4c82ae",
   "name": "vc",
-  "package_tarball_full_path": "C:\\Users\\Admin\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0.conda",
+  "package_tarball_full_path": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\vc-14.40-h2eaa2aa_0.conda",
   "paths_data": {
     "paths": [],
     "paths_version": 1

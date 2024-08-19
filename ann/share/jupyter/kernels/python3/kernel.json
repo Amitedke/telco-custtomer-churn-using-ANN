@@ -1,6 +1,6 @@
 {
  "argv": [
-  "python",
+  "d:/ppoc/telco-custtomer-churn-using-ANN/ann\\python.exe",
   "-m",
   "ipykernel_launcher",
   "-f",

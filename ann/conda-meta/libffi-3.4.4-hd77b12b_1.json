@@ -7,8 +7,7 @@
     "vc >=14.1,<15.0a0",
     "vs2015_runtime >=14.16.27012,<15.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\Admin\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1",
-  "features": "",
+  "extracted_package_dir": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1",
   "files": [
     "Library/bin/ffi-7.dll",
     "Library/bin/ffi-8.dll",
@@ -29,12 +28,12 @@
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "C:\\Users\\Admin\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1",
+    "source": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1",
     "type": 1
   },
   "md5": "9807b377e11739ae3e920e10e607e460",
   "name": "libffi",
-  "package_tarball_full_path": "C:\\Users\\Admin\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1.conda",
+  "package_tarball_full_path": "C:\\Users\\T316\\AppData\\Local\\anaconda3\\pkgs\\libffi-3.4.4-hd77b12b_1.conda",
   "paths_data": {
     "paths": [
       {
@@ -122,7 +121,6 @@
   "size": 124747,
   "subdir": "win-64",
   "timestamp": 1714484319443,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/libffi-3.4.4-hd77b12b_1.conda",
   "version": "3.4.4"
 }
